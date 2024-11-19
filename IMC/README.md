@@ -1,2 +1,2 @@
 # IMC calculadora
- primeiro projeto com js
+Calculadora IMC(Índice de Massa Corpórea)
